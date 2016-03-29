@@ -25,3 +25,24 @@ file.
 
 -----
 
+How can you use the staging area to make sure you have one commit per logical 
+change?
+
+The staging area allows you to explicitely define what files will be committed.
+
+
+-----
+
+What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+
+ - When creating a new feature that you're not sure will be implemented.
+ - When experimenting.
+ - When creating a different version in parallel.
+
+Branches will allow you to pursue these other options without disrupting the 
+regular maintenance of the master branch.
+
+
+-----
+
