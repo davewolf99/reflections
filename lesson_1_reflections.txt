@@ -1,0 +1,80 @@
+
+-----
+
+How did viewing a diff between two versions of a file help you see the bug 
+that was introduced?
+
+For very small files, there may only be a slight advantage by using some sort 
+of file compare program.  But for files larger (lines of code), and especially 
+if you are not the one who wrote the code, the computer will do most of the 
+grunt work of comparison for you and save lots of time and aggravation.
+
+
+-----
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+The current state of a system can not truly be understood unless you know it's 
+history.  How it came into being.  This is likely the most valuable aspect of 
+having access to the entire history of a file (or repository of code).
+
+On a more granular level, being able to review the changes in code might allow 
+someone to gain an understanding of changes in business rules, strategy, 
+policies, procedures, etc. over time.
+
+And on a more pragmatic programming level, it will allow you to revert back to 
+earlier versions if need be for whatever reason.  Unforseen consequences, 
+missed bug...
+
+
+-----
+
+What do you think are the pros and cons of manually choosing when to create a 
+commit, like you do in Git, vs having versions automatically saved, like 
+Google Docs does?
+
+PROS...
+- Much higher likelyhood of creating logical, usable commits.
+- Commits done in logical blocks allow for easier transition and adaptation if 
+  needed.
+
+CONS...
+- Higher potential of forgetting to commit.
+
+
+-----
+
+Why do you think some version control systems, like Git, allow saving multiple 
+files in one commit, while others, like Google Docs, treat each file 
+separately?
+
+Saving multiple files in a single commit only makes sense under certain 
+conditions.  For most use cases in systems like Google Docs, commiting a single 
+file achieves the objective without performing unnecessary tasks.
+
+
+-----
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log shows basic details of previous commits: id, short description, 
+date/time, etc.
+
+git dif allows you to quickly identify the specific coding changes that occured 
+between specific commits.
+
+
+-----
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I'd like to start using it for my own projects.
+
+
+-----
+
+
+
+
+
