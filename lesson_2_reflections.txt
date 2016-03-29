@@ -46,3 +46,17 @@ regular maintenance of the master branch.
 
 -----
 
+How do the diagrams help you visualize the branch structure?
+
+They are a visual representation of the branch structure.  It allows me to 
+'see' the branching in my head.
+
+
+-----
+
+
+
+
+
+
+
