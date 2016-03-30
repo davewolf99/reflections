@@ -57,16 +57,29 @@ They are a visual representation of the branch structure.  It allows me to
 What is the result of merging two branches together? 
 
 All of the previous changes in both branches are merged together.  One branch 
-is merged into the other.  The new commit has both branches as parents.  All commits from both branches are still accessible from the newly merged branch.
+is merged into the other.  The new commit has both branches as parents.  All 
+commits from both branches are still accessible from the newly merged branch.
+
 
 Why do we represent it in the diagram the way we do?
 
-To show that all commits that were accessible from merged branches are still accessible. 
+To show that all commits that were accessible from merged branches are still 
+accessible. 
 
 
 -----
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges 
+manually?
+
+PROS
+ - saves a lot of time and headache
+
+CONS
+ - doesn't always work
+ - may have to manually merge anyway depending on the changes made
 
 
+-----
 
 
