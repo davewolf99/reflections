@@ -31,9 +31,26 @@ Fork - a clone, except all done on GitHub.
 
 -----
 
-What is the benefit of having a copy of the last known state of the remote stored locally?
+What is the benefit of having a copy of the last known state of the remote stored 
+locally?
 
-It is available to me when working offline.  Whether just to refer to, or possibly to merge if needed.
+It is available to me when working offline.  Whether just to refer to, or possibly 
+to merge if needed.
+
+
+-----
+
+How would you collaborate without using Git or GitHub? 
+
+Probably with some sort of system of home-grown rules for creating new files and 
+folders, and resolving conflicts on a cloud based service.
+
+
+What would be easier, and what would be harder?
+
+It depends.  If it's something really small, possibly just sharing a file would 
+work just fine.  As projects get larger and more people are involved, this 
+increases the need for tools for tracking and resolving conflicts.
 
 
 -----
