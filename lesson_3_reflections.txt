@@ -7,5 +7,15 @@ To prevent data loss.
 If you're collaborating with others.
 If you want others to be able to view the repository for some reason.
 
+
+-----
+
+Why might you want to always pull changes manually rather than having Git automatically 
+stay up-to-date with your remote repository?
+
+You might be working on something locally where you want a branch to remain in it's 
+current state.
+
+
 -----
 
