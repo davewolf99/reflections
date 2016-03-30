@@ -31,3 +31,10 @@ Fork - a clone, except all done on GitHub.
 
 -----
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It is available to me when working offline.  Whether just to refer to, or possibly to merge if needed.
+
+
+-----
+
