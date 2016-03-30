@@ -19,3 +19,15 @@ current state.
 
 -----
 
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+
+Branch - a new pathway of commits within a repository
+
+Clone - a copy of a repository including all meta-data.
+
+Fork - a clone, except all done on GitHub.
+
+
+-----
+
