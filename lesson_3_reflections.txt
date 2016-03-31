@@ -55,3 +55,18 @@ increases the need for tools for tracking and resolving conflicts.
 
 -----
 
+When would you want to make changes in a separate branch rather than directly in 
+master? 
+
+- adding a new feature
+- experimenting with things
+
+What benefits does each approach have?
+
+- Changes in master are less complicated to update.
+- Changes in a different branch allow you to keep master 'clean' and working as 
+   you try new things out.
+
+
+-----
+
